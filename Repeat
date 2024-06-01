@@ -1,0 +1,2 @@
+String str = "abc";
+String result = str.repeat(3); // "abcabcabc"
